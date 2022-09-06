@@ -1,9 +1,7 @@
-//Ivan Temesvari
-//CSC 240-0C1
-//Summer 2011
-//May 23, 2011
-//This is the header file for the ticTacToe game described on p. 58
-//of Lab Exercises in Data Structures with C++ by Malik 2010
+//Paige Jenkins
+//Fall 2022
+//9/5/22
+//This is the header file for the ticTacToe game
 #ifndef TICTACTOE_H
 #define TICTACTOE_H
 
